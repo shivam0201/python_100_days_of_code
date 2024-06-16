@@ -9,5 +9,9 @@ print("String Concatenation is done with the '+' sign.")
 print('e.g. print("Hello"+"World")')
 print("New lined can be created with a backlash and n \n")
 
-print("Hello "+input("What is your name ") + "!")
+#print("Hello "+input("What is your name ") + "!")
 
+#This is a comment
+"""
+This is multi line comment
+"""
