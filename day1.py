@@ -15,3 +15,5 @@ print("New lined can be created with a backlash and n \n")
 """
 This is multi line comment
 """
+
+print(len(input("What is your name? ")))
