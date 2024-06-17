@@ -69,4 +69,5 @@ bill=int(input("What is bill amount?\n"))
 people=int(input("How many people?\n"))
 tip_per=int(input("What is tip percentage?\n"))
 total=tip_per/100
-print(f"Each person should pay {(total/people)+(bill+(bill*total))/people}")
+print(f"Each person should pay {(total/people)+(bill+(bill*total))/people}") 
+#-----------------------------------------------------------------------------------------------------------
